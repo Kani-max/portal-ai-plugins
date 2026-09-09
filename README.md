@@ -1,5 +1,6 @@
 # Spotify Portal AI Plugins
 
+
 Bring [Spotify Portal](https://portal.spotify.com) into Claude Code, Codex, and Cursor.
 
 This plugin provides focused workflows for the
