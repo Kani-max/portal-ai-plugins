@@ -71,5 +71,6 @@ The workflows invoke the upstream CLI through:
 npx @spotify/portal-cli <command>
 ```
 
+
 Setup verifies the required `auth`, `actions`, `owner`, `search`, and `service`
 commands before proceeding.
